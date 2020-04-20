@@ -2,6 +2,7 @@
 
 python codes I used sometimes.
 This content is just a reminder for me.
+# use python 3.7.4
 
 ### dictionary
 
