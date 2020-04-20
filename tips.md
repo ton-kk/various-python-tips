@@ -1,6 +1,6 @@
 ## python tips
 
-pthon codes I used sometimes.
+python codes I used sometimes.
 This content is just a reminder for me.
 
 ### dictionary
