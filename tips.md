@@ -23,7 +23,7 @@ print(result)
 # ['22','777', ... ]
 ```
 
-"finditer" return match object list Include lication too.
+"finditer" return match object Include lication too.
 
 ```python
 str = "22, 777aaa"
