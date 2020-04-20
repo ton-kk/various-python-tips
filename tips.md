@@ -14,14 +14,14 @@ strTonumber = {'str1': 1, 'str2': 2, 'str3': 3, ... }
 ```
 
 ### re
-"findall" is only string. return list object. Include only string.
+"findall" return list include only string.
 
 ```python
 re.findall('[0-9]+', targetStr)
 # ['22','777', ... ]
 ```
 
-"finditer" return match object list. Include lication.
+"finditer" return match object list Include lication too.
 
 ```python
 re.findall('[0-9]+', targetStr)
