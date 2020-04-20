@@ -17,13 +17,19 @@ strTonumber = {'str1': 1, 'str2': 2, 'str3': 3, ... }
 "findall" return list include only string.
 
 ```python
-re.findall('[0-9]+', targetStr)
+str = "22, 777aaa"
+result = re.findall('[0-9]+', targetStr)
+print(result)
 # ['22','777', ... ]
 ```
 
 "finditer" return match object list Include lication too.
 
 ```python
-re.findall('[0-9]+', targetStr)
-# ['22','777', ... ]
+str = "22, 777aaa"
+result = re.finditer('[0-9]+', targetStr)
+for r in result:
+  print(r)
+# <re.Match object; span=(0, 2), match='22'>
+# <re.Match object; span=(4, 7), match='777'>
 ```
