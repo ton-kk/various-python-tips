@@ -1,6 +1,6 @@
 # python tips
 
-This content is just a reminder for me.
+This content is just a reminder for me. and my english practice.
 ## Basics
 
 ### version
