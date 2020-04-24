@@ -5,7 +5,7 @@ This content is just a reminder for me. and my english practice.
 
 ### version
 now, python has two major version. ver 2 and  3.  
-there are some difference. be cared python scripts version and your compilers version.  
+there are some difference. be cared python scripts version and compilers version.  
 
 check the version on command line.  
 
