@@ -103,3 +103,11 @@ for r in result:
 # <re.Match object; span=(0, 2), match='22'>
 # <re.Match object; span=(4, 7), match='777'>
 ```
+
+### default output
+print can be used in various ways.  
+some are easy to forget.  
+```python
+string = "world"
+print("hello",string) # hello world
+```
